@@ -27,7 +27,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "",
   "VITE_SEO_SITE_NAME": "Lordex",
   "VITE_SEO_SITE_DESCRIPTION": "Lordex is a perpetual DEX built for those who conquer markets. Trade crypto perps and real-world assets with leverage, earn Lord Points, and rise through the ranks.",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/airdropsea-0971/",
+  "VITE_SEO_SITE_URL": "https://lordex.ceoism.com",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "",
